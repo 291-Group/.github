@@ -22,4 +22,4 @@ More tools coming soon — follow us on GitHub to stay updated.
 
 ---
 
-[291group.com](https://291group.com) · [Contact Us](https://291group.com/contact) · [GitHub](https://github.com/291-Group)
+[291group.com](https://291Group.com) · [Contact Us](https://291group.com/contact) · [GitHub](https://github.com/291-Group)
