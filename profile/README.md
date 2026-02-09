@@ -5,12 +5,12 @@
 ![GitHub Org Stars](https://img.shields.io/github/stars/291-Group?style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/291-Group?style=social)
 
-Veteran-led technology company delivering mission-critical solutions across electronic protection, AI/ML, and custom engineering. Founded by Canadian Armed Forces SIGINT specialists with 100+ years of combined operational experience.
+Veteran-led technology company delivering mission-critical solutions across electronic protection, AI/ML, and custom engineering. Founded by Canadian Armed Forces Signals Intelligence Specialists with 100+ years of combined operational experience.
 
 We build affordable systems that work in the real world — from commercial applications to defence operations.
 
 ### 291 Electronic Protection Platform
-Multi-sensor SIGINT collection and analysis. ADS-B tracking, direction finding, spectrum analysis, and WiFi reconnaissance in a ruggedized, field-deployable package. Built by operators, for operators.
+Multi-sensor Signals Intelligence collection and analysis. ADS-B tracking, direction finding, spectrum analysis, and WiFi reconnaissance in a ruggedized, field-deployable package. Built by operators, for operators.
 
 [View EP Platform](https://291group.com/products/ep-platform) · [Configure & Pricing](https://291group.com/ep) · [Platform Interface](https://291grp.com/products/ep-platform-interface)
 
