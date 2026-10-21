@@ -11,7 +11,7 @@ Veteran-led technology company delivering mission-critical solutions across elec
 
 ## Open Source
 
-### [📦 LAN Orangutan](https://github.com/291-Group/LAN-Orangutan)
+### [LAN Orangutan](https://github.com/291-Group/LAN-Orangutan)
 
 ![Stars](https://291grp.com/assets/badges/stars.svg?v=1)
 ![Forks](https://291grp.com/assets/badges/forks.svg?v=1)
@@ -21,7 +21,23 @@ Veteran-led technology company delivering mission-critical solutions across elec
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/291-Group/lan-orangutan)
 ![Top Language](https://img.shields.io/github/languages/top/291-Group/lan-orangutan)
 
-Open source network discovery for homelabbers. Scan networks, label devices, track changes — all from a clean web UI or CLI.
+LAN-Orangutan is a self-hosted network discovery tool. Find every device on your LAN, label and group them, snapshot your network and compare it later, and get flagged when something unexpected shows up. Single binary, no setup, Tailscale built in.
+
+---
+
+### [LAN Sheriff](https://github.com/291-Group/LAN-Sheriff)
+
+![Stars](https://291grp.com/assets/badges-ls/stars.svg?v=1)
+![Forks](https://291grp.com/assets/badges-ls/forks.svg?v=1)
+![Releases](https://291grp.com/assets/badges-ls/release.svg?v=1)
+![Issues](https://img.shields.io/github/issues/291-Group/lan-sheriff)
+![Last Commit](https://img.shields.io/github/last-commit/291-Group/lan-sheriff)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/291-Group/lan-sheriff)
+![Top Language](https://img.shields.io/github/languages/top/291-Group/lan-sheriff)
+
+LAN Sheriff watches which servers your network talks to. Self-hosted, no account. Observes only; blocks nothing.
+
+---
 
 More tools coming soon — follow us on GitHub to stay updated.
 
