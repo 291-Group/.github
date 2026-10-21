@@ -23,6 +23,11 @@ Veteran-led technology company delivering mission-critical solutions across elec
 
 LAN-Orangutan is a self-hosted network discovery tool. Find every device on your LAN, label and group them, snapshot your network and compare it later, and get flagged when something unexpected shows up. Single binary, no setup, Tailscale built in.
 
+<p align="center">
+  <img src="https://github.com/291-Group/LAN-Orangutan/raw/main/docs/LO1.png" width="48%" />
+  <img src="https://github.com/291-Group/LAN-Orangutan/raw/main/docs/LO2.png" width="48%" />
+</p>
+
 ---
 
 ### [LAN Sheriff](https://github.com/291-Group/LAN-Sheriff)
@@ -36,6 +41,10 @@ LAN-Orangutan is a self-hosted network discovery tool. Find every device on your
 ![Top Language](https://img.shields.io/github/languages/top/291-Group/lan-sheriff)
 
 LAN Sheriff watches which servers your network talks to. Self-hosted, no account. Observes only; blocks nothing.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/291-Group/LAN-Sheriff/main/docs/assets/watchtower.gif" width="900" />
+</p>
 
 ---
 
