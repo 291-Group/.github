@@ -48,7 +48,7 @@ LAN Sheriff watches which servers your network talks to. Self-hosted, no account
 
 ---
 
-### SDR Mobile [Coming Soon]
+### 291 SDR Mobile [Coming Soon]
 
 291 SDR Mobile lets you feel the spectrum with your thumb. Control your software-defined radio from your phone to track aircraft, monitor marine traffic, listen to FM radio, capture weather satellite images and more, with no need to plug the SDR into your phone.
 
