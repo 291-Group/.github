@@ -84,8 +84,6 @@ Multi-sensor Signals Intelligence collection and analysis. ADS-B tracking, direc
 
 [View EP Platform](https://291group.com/products/ep-platform) · [Configure & Pricing](https://291group.com/ep) · [Platform Interface](https://291grp.com/products/ep-platform-interface) · [Platform Demo](https://demo.291grp.com)
 
-https://github.com/user-attachments/assets/c67f57c5-c8f2-45fa-b463-b1909fb65018
-
 ---
 
 [291Group.com](https://291group.com) · [Contact Us](https://291group.com/contact) · [GitHub](https://github.com/291-Group)
